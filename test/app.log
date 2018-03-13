@@ -1,0 +1,7 @@
+[2018-03-07 04:27:27] name.WARNING: Foo [] []
+[2018-03-07 04:27:29] name.WARNING: Foo [] []
+[2018-03-07 04:28:13] name_hw.WARNING: Foo [] []
+[2018-03-07 08:25:04] name_hw.WARNING: Foo [] []
+[2018-03-12 08:02:13] name_hw.WARNING: Foo [] []
+[2018-03-12 08:02:15] name_hw.WARNING: Foo [] []
+[2018-03-12 08:31:17] name_hw.WARNING: Foo [] []
